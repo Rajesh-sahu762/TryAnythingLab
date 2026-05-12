@@ -13,6 +13,7 @@ const [Group, setGroup] = useState(['Rajesh','Anshul','divyanshu','kartik','vans
 
 function increase() {
     setNum(Num+1)
+    
 }
 
 function changeName() {
